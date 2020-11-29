@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="11cm" height="7cm" viewBox="-64 -5 208 126" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #00ff00" x="-27" y="15" width="67.3065" height="69.55"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x="-27" y="15" width="67.3065" height="69.55"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x="-27" y="15" width="67.3065" height="69.55"/>
+  </g>
+  <g>
+    <polygon style="fill: #000000" points="11,-2 20,16 2,16 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="11,-2 20,16 2,16 "/>
+  </g>
+  <g>
+    <path style="fill: #000099" d="M -27.0001 17.125 C -44.6302,17.125 -62.2604,38.0625 -62.2604,59 C -62.2604,59 -27.0001,59 -27.0001,59 C -27.0001,59 -27.0001,17.125 -27.0001,17.125z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -27.0001 17.125 C -44.6302,17.125 -62.2604,38.0625 -62.2604,59 C -62.2604,59 -27.0001,59 -27.0001,59 C -27.0001,59 -27.0001,17.125 -27.0001,17.125"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -27.0001 17.125 C -44.6302,17.125 -62.2604,38.0625 -62.2604,59 C -62.2604,59 -27.0001,59 -27.0001,59 C -27.0001,59 -27.0001,17.125 -27.0001,17.125"/>
+  </g>
+  <g>
+    <polygon style="fill: #000000" points="-26.5104,97.624 43.9896,97.624 79.2396,101.124 -61.7604,101.124 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e84fe5" points="-26.5104,97.624 43.9896,97.624 79.2396,101.124 -61.7604,101.124 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e84fe5" points="-26.5104,97.624 43.9896,97.624 79.2396,101.124 -61.7604,101.124 "/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="-20" y="85" width="11.3065" height="11.6833"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="-20" y="85" width="11.3065" height="11.6833"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="-20" y="85" width="11.3065" height="11.6833"/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="19.84" y="84.9" width="11.3065" height="11.6833"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="19.84" y="84.9" width="11.3065" height="11.6833"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="19.84" y="84.9" width="11.3065" height="11.6833"/>
+  </g>
+  <g>
+    <path style="fill: #00ff00" d="M 42.24 70.125 C 51.99,70.125 61.74,43.875 61.74,17.625 C 61.74,17.625 42.24,17.625 42.24,17.625 C 42.24,17.625 42.24,70.125 42.24,70.125z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" d="M 42.24 70.125 C 51.99,70.125 61.74,43.875 61.74,17.625 C 61.74,17.625 42.24,17.625 42.24,17.625 C 42.24,17.625 42.24,70.125 42.24,70.125"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" d="M 42.24 70.125 C 51.99,70.125 61.74,43.875 61.74,17.625 C 61.74,17.625 42.24,17.625 42.24,17.625 C 42.24,17.625 42.24,70.125 42.24,70.125"/>
+  </g>
+  <g>
+    <path style="fill: #00ff00" d="M -26.2604 85.624 C -44.0104,85.624 -61.7604,72.124 -61.7604,58.624 C -61.7604,58.624 -26.2604,58.624 -26.2604,58.624 C -26.2604,58.624 -26.2604,85.624 -26.2604,85.624z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" d="M -26.2604 85.624 C -44.0104,85.624 -61.7604,72.124 -61.7604,58.624 C -61.7604,58.624 -26.2604,58.624 -26.2604,58.624 C -26.2604,58.624 -26.2604,85.624 -26.2604,85.624"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" d="M -26.2604 85.624 C -44.0104,85.624 -61.7604,72.124 -61.7604,58.624 C -61.7604,58.624 -26.2604,58.624 -26.2604,58.624 C -26.2604,58.624 -26.2604,85.624 -26.2604,85.624"/>
+  </g>
+  <g>
+    <polygon style="fill: #00ff00" points="23.74,19.625 142.74,9.625 142.74,19.625 23.74,29.625 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="23.74,19.625 142.74,9.625 142.74,19.625 23.74,29.625 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="23.74,19.625 142.74,9.625 142.74,19.625 23.74,29.625 "/>
+  </g>
+</svg>

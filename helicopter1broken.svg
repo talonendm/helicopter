@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="9cm" height="6cm" viewBox="-64 -5 161 102" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ff0000" x="11" y="-3" width="67.3065" height="69.55"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="11" y="-3" width="67.3065" height="69.55"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="11" y="-3" width="67.3065" height="69.55"/>
+  </g>
+  <g>
+    <polygon style="fill: #000000" points="11,-2 20,16 2,16 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="11,-2 20,16 2,16 "/>
+  </g>
+  <g>
+    <path style="fill: #000099" d="M -27.0001 17.125 C -44.6302,17.125 -62.2604,38.0625 -62.2604,59 C -62.2604,59 -27.0001,59 -27.0001,59 C -27.0001,59 -27.0001,17.125 -27.0001,17.125z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -27.0001 17.125 C -44.6302,17.125 -62.2604,38.0625 -62.2604,59 C -62.2604,59 -27.0001,59 -27.0001,59 C -27.0001,59 -27.0001,17.125 -27.0001,17.125"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -27.0001 17.125 C -44.6302,17.125 -62.2604,38.0625 -62.2604,59 C -62.2604,59 -27.0001,59 -27.0001,59 C -27.0001,59 -27.0001,17.125 -27.0001,17.125"/>
+  </g>
+  <g>
+    <polygon style="fill: #000000" points="-21.1348,73.0438 48.1164,73.0438 82.742,92.124 -55.7604,92.124 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e84fe5" points="-21.1348,73.0438 48.1164,73.0438 82.742,92.124 -55.7604,92.124 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e84fe5" points="-21.1348,73.0438 48.1164,73.0438 82.742,92.124 -55.7604,92.124 "/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="-20" y="85" width="11.3065" height="11.6833"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="-20" y="85" width="11.3065" height="11.6833"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="-20" y="85" width="11.3065" height="11.6833"/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="26.5743" y="84.9" width="4.57218" height="4.72459"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="26.5743" y="84.9" width="4.57218" height="4.72459"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="26.5743" y="84.9" width="4.57218" height="4.72459"/>
+  </g>
+  <g>
+    <path style="fill: #ff1500" d="M 42.24 70.125 C 51.99,70.125 61.74,43.875 61.74,17.625 C 61.74,17.625 42.24,17.625 42.24,17.625 C 42.24,17.625 42.24,70.125 42.24,70.125z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e84fe5" d="M 42.24 70.125 C 51.99,70.125 61.74,43.875 61.74,17.625 C 61.74,17.625 42.24,17.625 42.24,17.625 C 42.24,17.625 42.24,70.125 42.24,70.125"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e84fe5" d="M 42.24 70.125 C 51.99,70.125 61.74,43.875 61.74,17.625 C 61.74,17.625 42.24,17.625 42.24,17.625 C 42.24,17.625 42.24,70.125 42.24,70.125"/>
+  </g>
+  <g>
+    <path style="fill: #ff0000" d="M 0.7396 64.0438 C -19.2592,64.0438 -39.258,42.3339 -39.258,20.624 C -39.258,20.624 0.7396,20.624 0.7396,20.624 C 0.7396,20.624 0.7396,64.0438 0.7396,64.0438z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" d="M 0.7396 64.0438 C -19.2592,64.0438 -39.258,42.3339 -39.258,20.624 C -39.258,20.624 0.7396,20.624 0.7396,20.624 C 0.7396,20.624 0.7396,64.0438 0.7396,64.0438"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" d="M 0.7396 64.0438 C -19.2592,64.0438 -39.258,42.3339 -39.258,20.624 C -39.258,20.624 0.7396,20.624 0.7396,20.624 C 0.7396,20.624 0.7396,64.0438 0.7396,64.0438"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="-23.26,61.625 95.74,51.625 95.74,61.625 -23.26,71.625 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="-23.26,61.625 95.74,51.625 95.74,61.625 -23.26,71.625 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" points="-23.26,61.625 95.74,51.625 95.74,61.625 -23.26,71.625 "/>
+  </g>
+</svg>

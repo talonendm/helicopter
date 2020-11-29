@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="12cm" height="6cm" viewBox="-134 -19 231 120" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #00ff00" x="25" y="-17" width="67.3065" height="69.55"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x="25" y="-17" width="67.3065" height="69.55"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x="25" y="-17" width="67.3065" height="69.55"/>
+  </g>
+  <g>
+    <polygon style="fill: #000000" points="21.5,-0.5 30.5,17.5 12.5,17.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="21.5,-0.5 30.5,17.5 12.5,17.5 "/>
+  </g>
+  <g>
+    <path style="fill: #000099" d="M 46 31.125 C 28.3698,31.125 10.7397,52.0625 10.7397,73 C 10.7397,73 46,73 46,73 C 46,73 46,31.125 46,31.125z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 46 31.125 C 28.3698,31.125 10.7397,52.0625 10.7397,73 C 10.7397,73 46,73 46,73 C 46,73 46,31.125 46,31.125"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 46 31.125 C 28.3698,31.125 10.7397,52.0625 10.7397,73 C 10.7397,73 46,73 46,73 C 46,73 46,31.125 46,31.125"/>
+  </g>
+  <g>
+    <polygon style="fill: #000000" points="-13.5103,69.625 56.9897,69.625 92.2397,73.125 -48.7603,73.125 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #d8e5e5" points="-13.5103,69.625 56.9897,69.625 92.2397,73.125 -48.7603,73.125 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #d8e5e5" points="-13.5103,69.625 56.9897,69.625 92.2397,73.125 -48.7603,73.125 "/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="1.47177" y="89" width="0.362903" height="0.375"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="1.47177" y="89" width="0.362903" height="0.375"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="1.47177" y="89" width="0.362903" height="0.375"/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="35.8397" y="88.9" width="11.3065" height="11.6833"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="35.8397" y="88.9" width="11.3065" height="11.6833"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff0000" x="35.8397" y="88.9" width="11.3065" height="11.6833"/>
+  </g>
+  <g>
+    <path style="fill: #00ff00" d="M -9.76031 80.125 C -19.5103,80.125 -29.2603,53.875 -29.2603,27.625 C -29.2603,27.625 -9.76031,27.625 -9.76031,27.625 C -9.76031,27.625 -9.76031,80.125 -9.76031,80.125z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" d="M -9.76031 80.125 C -19.5103,80.125 -29.2603,53.875 -29.2603,27.625 C -29.2603,27.625 -9.76031,27.625 -9.76031,27.625 C -9.76031,27.625 -9.76031,80.125 -9.76031,80.125"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" d="M -9.76031 80.125 C -19.5103,80.125 -29.2603,53.875 -29.2603,27.625 C -29.2603,27.625 -9.76031,27.625 -9.76031,27.625 C -9.76031,27.625 -9.76031,80.125 -9.76031,80.125"/>
+  </g>
+  <g>
+    <path style="fill: #00ff00" d="M 59.7397 88.125 C 77.4897,88.125 95.2397,74.625 95.2397,61.125 C 95.2397,61.125 59.7397,61.125 59.7397,61.125 C 59.7397,61.125 59.7397,88.125 59.7397,88.125z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" d="M 59.7397 88.125 C 77.4897,88.125 95.2397,74.625 95.2397,61.125 C 95.2397,61.125 59.7397,61.125 59.7397,61.125 C 59.7397,61.125 59.7397,88.125 59.7397,88.125"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" d="M 59.7397 88.125 C 77.4897,88.125 95.2397,74.625 95.2397,61.125 C 95.2397,61.125 59.7397,61.125 59.7397,61.125 C 59.7397,61.125 59.7397,88.125 59.7397,88.125"/>
+  </g>
+  <g>
+    <polygon style="fill: #00ff00" points="-132.76,67.625 -13.7603,77.625 -13.7603,67.625 -132.76,57.625 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="-132.76,67.625 -13.7603,77.625 -13.7603,67.625 -132.76,57.625 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="-132.76,67.625 -13.7603,77.625 -13.7603,67.625 -132.76,57.625 "/>
+  </g>
+</svg>
